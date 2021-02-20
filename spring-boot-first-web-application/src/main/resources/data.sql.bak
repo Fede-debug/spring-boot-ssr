@@ -1,0 +1,4 @@
+INSERT into todo VALUES (1001, 'cazzo ne so', false, sysdate(), 'in28Minutes');
+INSERT into todo VALUES (1002, 'tua mamma', false, sysdate(), 'in28Minutes');
+INSERT into todo VALUES (1003, 'roba a caso', true, sysdate(), 'in28Minutes');
+INSERT into todo VALUES (1004, 'script sql', true, sysdate(), 'in28Minutes');
